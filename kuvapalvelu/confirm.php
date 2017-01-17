@@ -1,1 +1,0 @@
-if(filter_var($data['email'], FILTER_VALIDATE_EMAIL)) { 
